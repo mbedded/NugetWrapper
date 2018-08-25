@@ -6,7 +6,6 @@ A NuGet-Wrapper for Jenkins. Validates if a packages is release before it is pus
 
 You have a NuGet-Plugin in Jenkins (a build-server). When you compile
 your project you are able to auto-publish your NuGet-Packages.
-
 It may be possible that you have multiple NuGet-Packages in your solution.
 So this plugin will `push` already published packages.
 
@@ -16,10 +15,10 @@ So this plugin will `push` already published packages.
 
 ## Installation
 
-You can use two ways:
+There are two ways:
 
-- Download the source and compile this project
-- Download the ZIP of the current release
+- Download the source and compile it with Visual Studio
+- Download the ZIP of the current release (see [Releases](https://github.com/mbedded/NugetWrapper/releases))
 
 **Hint:** Currently it is a .Net Framework project. It will work on Windows only.
 
