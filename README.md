@@ -9,8 +9,8 @@ your project you are able to auto-publish your NuGet-Packages.
 It may be possible that you have multiple NuGet-Packages in your solution.
 So this plugin will `push` already published packages.
 
-*Sidenode: This is the case when you use a general filter like
-`**\*.nupkg`*
+*Sidenode (example): You use a general filter like `**\*.nupkg` and
+a workspace cleanup is missing.*
 
 
 ## Installation
